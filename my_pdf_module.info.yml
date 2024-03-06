@@ -1,0 +1,7 @@
+name: My PDF Module
+description: "Provides functionality to generate PDF files of pages."
+type: module
+core_version_requirement: ^8 || ^9 || ^10
+# No dependency on core/drupal_settings needed
+required libraries:
+  - dompdf/dompdf

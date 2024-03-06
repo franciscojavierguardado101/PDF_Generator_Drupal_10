@@ -1,0 +1,5 @@
+name: dompdf
+description: "DomPDF library for PDF generation."
+js:
+  "/path/to/dompdf/dist/dompdf.min.js": {}
+
